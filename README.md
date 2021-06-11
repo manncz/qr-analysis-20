@@ -26,8 +26,9 @@
 
 
 Applied_QR_2020.pdf: instructions provided for the exam
+
 Mann_Applied_QR.pdf: submitted report
 
 ### To recreate
 
-Run all R files in order as the names suggest.
+Run all R files in order.
