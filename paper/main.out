@@ -1,0 +1,13 @@
+\BOOKMARK [1][-]{section.1}{Introduction}{}% 1
+\BOOKMARK [1][-]{section.2}{Data}{}% 2
+\BOOKMARK [1][-]{section.3}{Exploratory data analysis of trends in mortality}{}% 3
+\BOOKMARK [1][-]{section.4}{Explaining variability in mortality rate}{}% 4
+\BOOKMARK [2][-]{subsection.4.1}{Model selection}{section.4}% 5
+\BOOKMARK [2][-]{subsection.4.2}{Estimated effects of demographic factors on mortality}{section.4}% 6
+\BOOKMARK [1][-]{section.5}{Predicting mortality rate}{}% 7
+\BOOKMARK [2][-]{subsection.5.1}{Methodology}{section.5}% 8
+\BOOKMARK [3][-]{subsubsection.5.1.1}{Generalized Linear Model}{subsection.5.1}% 9
+\BOOKMARK [3][-]{subsubsection.5.1.2}{Random Forest and Gradient Boosting}{subsection.5.1}% 10
+\BOOKMARK [2][-]{subsection.5.2}{Model comparison}{section.5}% 11
+\BOOKMARK [2][-]{subsection.5.3}{Prediction accuracy for demographic groups}{section.5}% 12
+\BOOKMARK [1][-]{section.6}{Discussion and limitations}{}% 13
